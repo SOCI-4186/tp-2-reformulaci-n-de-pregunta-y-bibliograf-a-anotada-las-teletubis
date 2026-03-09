@@ -1,7 +1,14 @@
 ---
 title: "SOCI 4186"
-subtitle: "Tarea de Proyecto de Investigación — №2  \nReformulación de pregunta y Bibliografía anotada  \nIndividual / Nombre del grupo"
-author: "Pon tu nombre aquí  \nNúmero de estudiante"
+subtitle: "Tarea de Proyecto de Investigación — №2  \nReformulación de pregunta y Bibliografía anotada / Las teletubis"
+author:
+     - name: "Rose B. Perez Ortiz"
+       affiliations: "844-21-8462"
+     - name: "Allyson A. Parrilla Ayala"
+       affiliations: "801-22-2922"
+     - name: "Zul M. Flores Fuentes"
+       affiliations: "801-19-8709"
+     
 date: today
 date-format: long
 lang: es
@@ -70,7 +77,7 @@ Presente su pregunta de investigación refinada y, en 250–500 palabras, respon
 - ¿Cómo aborda su pregunta una brecha en la literatura relevante?
 - ¿Cuáles son las implicaciones de responderla? (¿Qué aprenderemos de su investigación?).
 
-[Escriba aquí su reformulación de la pregunta de investigación...]
+¿Los empleados de corrección en Puerto Rico reportan una percepción de peligro más alta que la población general? La pregunta es principalmente de tipo deductivo y busca responder si los oficiales correccionales perciben el peligro en mayor medida que la población general. Es importante, ya que consideramos que existe una necesidad de profundizar en la comprensión de cómo el personal correccional experimenta la percepción de riesgo dentro de su entorno ocupacional y cómo esta se compara con la de la población general. Si bien estudios como los de @ferdik2016investigation, @wells2023fear y @ferdik2017correctional han evidenciado que estos profesionales reportan altos niveles de percepción de peligro y temor asociados a la naturaleza de su trabajo, investigaciones como @laureano2024work y @potts2024examining también documentan elevados niveles de estrés y percepción de peligro en este grupo. Sin embargo, persiste un vacío comparativo. Ningún estudio ha evaluado sistemáticamente si dicha percepción difiere de la ciudadanía general, especialmente en Puerto Rico. Responder esta pregunta permitirá determinar si las percepciones elevadas responden al entorno correccional o si reflejan patrones sociales más amplios, con implicaciones directas para el diseño de intervenciones institucionales, políticas públicas correccionales y futuras investigaciones comparativas en la región caribeña y latinoamericana.
 
 ---
 
@@ -89,41 +96,45 @@ Una vez que haya delimitado su tema, elabore una pequeña bibliografía anotada 
 1. Una cita en formato APA (use la sintaxis `@clave` de Quarto para citar automáticamente desde su archivo `.bib`).
 2. Un párrafo resumen (tres o cuatro oraciones) por fuente, explicando los puntos principales y cómo esta es útil para su investigación. No copie textos directamente de las fuentes. Las reglas de plagio aplican.
 
-## Ejemplo de entrada en la bibliografía anotada
-
-::: {.callout-warning}
-## Borre este ejemplo antes de entregar
-
-La siguiente entrada es un **ejemplo ilustrativo**. Debe **eliminarla** de su documento y sustituirla por sus propias fuentes en la sección «Sus fuentes anotadas» más abajo.
-:::
-
-**1.** @hall2009institutional
-
-**Anotación:** En este artículo, Hall y Thelen exploran cómo las instituciones económicas evolucionan en diferentes sistemas de economía de mercado. Analizan los mecanismos de cambio institucional y argumentan que las instituciones no son estáticas, sino que cambian a través de procesos graduales influenciados por actores políticos y económicos. El estudio adopta un enfoque deductivo, desarrollando su marco teórico a partir de conceptos existentes, y utiliza análisis teórico y comparativo para determinar sus hallazgos estudiando casos.
-
----
 
 ## Sus fuentes anotadas
 
-[Agregue aquí sus 5-8 fuentes con sus respectivas anotaciones...]
+**1.** @laureano2024work
 
-**1.** [Cita de la fuente 1]
+  **Anotación:** El estrés y el burnout presentes en los oficiales de corrección pueden deberse a la constante exposición al peligro dentro del entorno laboral. Este estudio resulta relevante por su delimitación geográfica y por la metodología utilizada para analizar las experiencias del personal correccional. Además, contribuye a responder la pregunta de investigación al examinar si los empleados de corrección desarrollan una mayor percepción del peligro debido a su entorno de trabajo.
 
-**Anotación:** [Su anotación aquí...]
+**2.** @abello2023prison
 
-**2.** [Cita de la fuente 2]
+**Anotación:** Este estudio describe cómo los empleados de instituciones penitenciarias pueden convertirse en víctimas de su propio entorno laboral. Las instalaciones correccionales se presentan como
+espacios potencialmente hostiles, lo que lleva a que los oficiales mantengan niveles elevados de alerta. En consecuencia, el estudio sugiere que el entorno institucional influye directamente en una mayor percepción del peligro entre estos profesionales.
 
-**Anotación:** [Su anotación aquí...]
+**3.** @ferdik2016investigation
 
-[Continúe con las demás fuentes...]
+**Anotación:**  Este estudio amplía la comprensión de por qué los empleados correccionales desarrollan sentimientos de miedo o amenaza a lo largo de su carrera profesional. Analiza cómo la percepción de peligro aumenta durante los turnos de trabajo y cómo estas experiencias pueden extenderse más allá del entorno laboral. De esta manera, aporta evidencia sobre cómo el contexto ocupacional influye en la percepción del riesgo.
 
----
+**4.** @ferdik2017correctional
+
+**Anotación:** E⁠ste estudio examina cómo los oficiales correccionales perciben que sus condiciones laborales afectan su calidad de vida. Los autores señalan que el entorno de trabajo puede representar una amenaza constante para la salud mental del personal. Asimismo, argumentan que los niveles elevados de estrés pueden contribuir a una percepción del peligro más intensa o distorsionada.
+
+**5.** @potts2024examining
+
+**Anotación:** Este estudio examina los antecedentes que predicen el miedo de los oficiales correccionales en su entorno de trabajo. Los autores identifican variables individuales e institucionales que contribuyen a que el personal desarrolle temor durante sus funciones. Los hallazgos aportan evidencia sobre cómo las condiciones del entorno laboral pueden intensificar la percepción de peligro entre los oficiales de corrección.
+
+**6.**  @gordon2017examining
+
+**Anotación:** Este estudio examina el miedo a la victimización entre oficiales correccionales y los factores que pueden aumentar o disminuir este temor. Los autores analizan diferentes variables institucionales y personales que influyen en la percepción de riesgo durante la interacción con las personas encarceladas. Los resultados sugieren que el miedo no depende únicamente de la posibilidad real de violencia, sino también de las condiciones del entorno laboral.
+
+**7.** @ferraresso2025sa
+
+**Anotación:** Este estudio presenta una revisión sistemática sobre los factores que predicen la victimización de oficiales correccionales dentro de prisiones y cárceles. Los autores analizan investigaciones previas para identificar variables relacionadas con la violencia contra el personal penitenciario. El estudio destaca cómo las condiciones institucionales, la organización del trabajo y la falta de recursos pueden aumentar la exposición al peligro. Esta investigación contribuye a comprender cómo el entorno correccional puede influir en la percepción de riesgo entre los oficiales.
+
+**8.** @wells2023fear
+
+**Anotación:** Este capítulo examina el miedo y la percepción de riesgo entre los oficiales correccionales, revisando cómo estas percepciones varían según características personales, como edad, género y raza, y características del entorno laboral, como la ambigüedad de roles, la toma de decisiones y el entrenamiento. Los autores también discuten las estrategias que las instituciones correccionales pueden implementar para atender las preocupaciones de seguridad del personal. Este trabajo contribuye a comprender cómo los factores individuales e institucionales interactúan para moldear la percepción del peligro entre los oficiales de corrección.
 
 # Declaración de uso de MEL {.unnumbered}
 
-[Si utilizó herramientas de Modelos Extensos de Lenguaje (MEL/LLM), complete esta sección según las instrucciones del sílabo. De lo contrario, indique "No se utilizaron herramientas de MEL en esta tarea."]
-
----
+Se utilizaron herramientas de Modelos Extensos de Lenguaje (MEL/LLM), específicamente Claude, para revisar la redacción, coherencia y ortografía del texto en la Parte 1. Estas herramientas se emplearon para validar que la relación establecida entre las referencias y la pregunta principal de la investigación fuera lógica y pertinente. También se utilizaron como apoyo para organizar las respuestas a las preguntas de la reformulación de la pregunta de investigación, ya que entre las compañeras había varias ideas y fuentes que se deseaban correlacionar.
 
 # Referencias {.unnumbered}
 
